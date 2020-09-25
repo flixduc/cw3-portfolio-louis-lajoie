@@ -1,0 +1,12 @@
+article{
+display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: var(--padding-thin);
+}
+
+@media screen and($vw-medium) {
+
+}

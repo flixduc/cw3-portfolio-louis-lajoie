@@ -1,0 +1,24 @@
+:root{
+  //couleur de base
+  --color-white: #fff;
+  --color-black: #000;
+
+  //couleur de bg
+  --color-bg-primary:#fff;
+  --color-bg-secondary:#F0F0F0;
+  --color-bg-tertiary:#202C4A;
+
+  //couleur des links
+  --color-link: #202C4A;
+  --color-link-visited: #8B8B97;
+  --color-link-hover: #E53847;
+  --color-link-active: #E53847;
+  --color-link-focus: #E53847;
+
+  //couleur texte
+  --color-text-primary:#000;
+  --color-text-secondary:#fff;
+
+  //couleur dégradé
+  --degrade-principale: linear-gradient(rgba(98,189,252) 0%, rgba(132,144,255) 100%);
+}

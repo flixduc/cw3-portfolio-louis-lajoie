@@ -1,0 +1,17 @@
+.creation{
+  margin-top: var(--margin-large);
+  img{
+    width: 20%;
+ }
+}
+
+@media screen and (min-width: $vw-medium) {
+  .creation{
+    display: flex;
+    flex-flow: row wrap;
+    article{
+
+      width: 30%;
+    }
+  }
+}
